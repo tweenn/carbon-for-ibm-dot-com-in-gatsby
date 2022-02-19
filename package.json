@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@carbon/ibmdotcom-react": "^1.30.0",
+    "@carbon/pictograms-react": "^11.22.0",
     "canvas": "^2.9.0",
     "gatsby": "^4.7.2",
     "gatsby-plugin-image": "^2.7.0",
